@@ -4,7 +4,7 @@
 }
 
 #body-header {
-  height: 65vh;
+  height: 60vh;
   width: 100vw;
   background-image: url(images/yellow_background2.jpg);
   background: linear-gradient(rgba(0,0,100,1));
@@ -80,5 +80,8 @@
   height: 100%;
   width: 100%;
   border-radius: 50%;
+}
 
+#about h3{
+  margin: 25px 15px 10px 15px;
 }
